@@ -3,6 +3,8 @@
 우아한테크코스 링크와 캘린더를 macOS 상단바에서 바로 확인하는 메뉴바 앱입니다.
 <img width="175" height="31" alt="image" src="https://github.com/user-attachments/assets/b294ecd3-7512-42cc-ad0f-ef13dea0ab3c" />
 
+<img width="286" height="566" alt="image" src="https://github.com/user-attachments/assets/317dc117-8381-4515-b470-51fbb41a1a38" />
+
 
 ## 설치 및 실행
 
