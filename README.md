@@ -5,6 +5,14 @@
 
 <img width="286" height="566" alt="image" src="https://github.com/user-attachments/assets/317dc117-8381-4515-b470-51fbb41a1a38" />
 
+## 주요 기능
+
+- macOS 상단바에 항상 표시되는 메뉴바 앱입니다.
+- 우아한테크코스에서 자주 사용하는 서비스 링크를 바로 열 수 있습니다.
+- PR 링크를 직접 추가, 수정, 삭제할 수 있습니다.
+- 우아한테크코스 캘린더 일정을 확인할 수 있습니다.
+- 캘린더는 오늘과 내일 일정만 보여줍니다.
+- 캘린더 새로고침 버튼으로 최신 일정을 다시 불러올 수 있습니다.
 
 ## 설치 및 실행
 
@@ -35,3 +43,5 @@ xattr -cr /Applications/woowabar.app
 
 - macOS 13 Ventura 이상
 - Intel Mac, Apple Silicon Mac 모두 지원
+
+
